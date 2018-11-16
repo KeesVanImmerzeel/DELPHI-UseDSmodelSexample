@@ -27,7 +27,7 @@ type
     procedure Button5Click(Sender: TObject);
 
   private
-    { Private declarations }
+    { Private declarations. }
   public
     { Public declarations }
   end;
